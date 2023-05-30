@@ -24,6 +24,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 250%;
+    margin: 20px;
 }
 
 /*  navigation and links */
@@ -55,3 +56,43 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* main image and main text */
+
+#main-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+}
+
+#main-text, #main-text h2 {
+    color: #252525;
+}
+
+#main-image {
+    height: 600px;
+    width: 100%;  
+    margin: 30px;  
+}
+
+/* main text next to image */
+#main-text h2 {
+    float: right;
+    font-size: 120%;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 30px;
+    padding-left: 10px;
+    bottom: 350px;
+    right: 150px;
+
+    position: absolute;
+}
+
