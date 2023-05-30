@@ -96,3 +96,21 @@ h1, h2 {
     position: absolute;
 }
 
+/* About us */
+
+#about-us {
+    height: 600;
+    margin-left: 10px;
+    background: black;
+}
+
+#about-us h1 {
+    color: white;
+    margin-left: 20px;
+}
+
+#about-text {
+    color: white;
+    margin-left: 15px;
+
+}
