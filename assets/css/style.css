@@ -60,7 +60,7 @@ h1, h2 {
 /* main image and main text */
 
 #main-outer {
-    height: 600px;
+    height: 500px;
     width: 100%;
     overflow: hidden;
 
@@ -72,7 +72,7 @@ h1, h2 {
 }
 
 #main-image {
-    height: 600px;
+    height: 500px;
     width: 100%;  
     margin: 30px;  
 }
@@ -90,7 +90,7 @@ h1, h2 {
 
     padding-top: 30px;
     padding-left: 10px;
-    bottom: 350px;
+    bottom: 200px;
     right: 150px;
 
     position: absolute;
@@ -99,9 +99,10 @@ h1, h2 {
 /* About us */
 
 #about-us {
-    height: 600;
+    height: 500;
     margin-left: 10px;
     background: black;
+    margin-bottom: 10px;
 }
 
 #about-us h1 {
