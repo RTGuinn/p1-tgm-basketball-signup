@@ -28,4 +28,9 @@ TGM Basketball Clinic is a place for children ages 12 and up to join and work on
 
 * About TGM Clinics
 
-        
+        TGM Basketball Clinics are 1 hour sessions designed to help your child work on and improve their basketball skills under the direct supervision of a seasoned veteran professional.
+        While in the clinic the children will be evaluated throughout the session and given individual instruction on how and what they need to do and work on so as to be the best they can be.
+        At the end of each session the kids will join together to have a fun challenge of a basketball game called shoot-out or stress to end each session with some fun.
+
+/* Insert img for About TGM section */
+
