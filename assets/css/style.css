@@ -116,3 +116,13 @@ h1, h2 {
     margin-left: 15px;
 
 }
+
+/*  Clinic times  */
+
+ #times div {
+    width: 33%;
+    height: 200px;
+    float: left;
+    padding: 20px 0 20px 0;
+    text-align: center;
+ }
