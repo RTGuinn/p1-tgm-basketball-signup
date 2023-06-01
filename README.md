@@ -38,3 +38,5 @@ TGM Basketball Clinic is a place for children ages 12 and up to join and work on
 
         The times and locations section allows the user to see when the clinics are happeing, where they will be located and for how long they will last.
         
+/* Insert img for Gym Times and Locations */
+
