@@ -101,6 +101,7 @@ h1, h2 {
 #about-us {
     height: 500;
     margin-left: 10px;
+    margin-right: 10px;
     background: black;
     margin-bottom: 10px;
 }
