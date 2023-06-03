@@ -160,3 +160,17 @@ h1, h2 {
 #photos > img {
     width: 100%;
 }
+
+/* Screen sizes */
+
+/* Large to medium screen size */
+@media screen and (max-width: 1200px) {
+    #about-us {
+        width: 95%;
+    }
+
+    #times {
+        padding: 30px 0;
+        margin: auto;
+    }
+}
