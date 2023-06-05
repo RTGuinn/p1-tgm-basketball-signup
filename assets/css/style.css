@@ -185,5 +185,18 @@ h1, h2 {
         margin: 0 0 20px 30px;
         line-height: 20px;
     }
+
+    #main-text h2 {
+        clear: left;
+        float: left;
+        line-height: 20px;
+        position: relative;
+        left: 30px;
+        margin-top: 10px;
+    }
     
+    #about-us {
+        width: 95%;
+        height: 950px;
+    }
 }
