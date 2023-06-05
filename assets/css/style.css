@@ -153,7 +153,7 @@ h1, h2 {
 #photos {
     clear: both;
     line-height: 0;
-    column-count: 5;
+    column-count: 4;
     column-gap: 0;
 }
 
@@ -163,14 +163,27 @@ h1, h2 {
 
 /* Screen sizes */
 
-/* Large to medium screen size */
+/* Large to medium screen size 1200px width and down */
 @media screen and (max-width: 1200px) {
     #about-us {
         width: 95%;
+        height: 1200px;
     }
 
     #times {
         padding: 30px 0;
         margin: auto;
     }
+}
+
+/* Medium screen size 950px width and down */
+@media screen and (max-width: 950px) {
+
+    #menu {
+        clear: left;
+        float: left;
+        margin: 0 0 20px 30px;
+        line-height: 20px;
+    }
+    
 }
