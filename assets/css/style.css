@@ -99,7 +99,7 @@ h1, h2 {
 /* About us */
 
 #about-us {
-    height: 500;
+    height: 120px;
     margin-left: 10px;
     margin-right: 10px;
     background: black;
@@ -167,7 +167,7 @@ h1, h2 {
 @media screen and (max-width: 1200px) {
     #about-us {
         width: 95%;
-        height: 1200px;
+        height: auto;
     }
 
     #times {
@@ -197,6 +197,6 @@ h1, h2 {
     
     #about-us {
         width: 95%;
-        height: 950px;
+        height: auto;
     }
 }
