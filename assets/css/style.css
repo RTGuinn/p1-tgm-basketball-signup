@@ -201,4 +201,16 @@ h1, h2 {
         width: 95%;
         height: auto;
     }
+
+    #photos {
+        column-count: 3;
+    }
+}
+
+/* Small screen size for gallery photos 800px and down */
+@media screen and (max-width: 800px) {
+    
+    #photos {
+        column-count: 2;
+    }
 }
