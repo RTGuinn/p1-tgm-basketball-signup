@@ -161,6 +161,15 @@ h1, h2 {
     width: 100%;
 }
 
+/* Sign up page */
+
+#signup {
+    clear: both;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* Screen sizes */
 
 /* Large to medium screen size 1200px width and down */
