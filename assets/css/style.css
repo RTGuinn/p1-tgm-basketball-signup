@@ -170,6 +170,10 @@ h1, h2 {
     align-items: center;
 }
 
+#signup h2 {
+    margin-bottom: 20px; /* give space between head and sign up form */
+}
+
 /* 404 page  */
 
 .container {
