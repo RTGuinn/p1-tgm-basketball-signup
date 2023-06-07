@@ -170,6 +170,12 @@ h1, h2 {
     align-items: center;
 }
 
+/* 404 page  */
+
+.container {
+    text-align: center;
+}
+
 /* Screen sizes */
 
 /* Large to medium screen size 1200px width and down */
