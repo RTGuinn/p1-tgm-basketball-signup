@@ -168,10 +168,37 @@ h1, h2 {
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 
 #signup h2 {
     margin-bottom: 20px; /* give space between head and sign up form */
+    margin-top: 30px;
+}
+
+input {  /* for name and email inputs */
+    border: 1px solid black;
+    font-size: 95%;
+    color: #3a3a3a;
+    background-color: white;
+    height: 25px;
+}
+
+input:hover { /* hovering highlight of current input area */
+    border: 1px solid red;
+}
+
+button {   /*  button layout style */
+    border: 2px solid #3a3a3a;
+    background-color: aqua;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button:hover {
+    color: white;
+    border: 2px solid red;
+    background-color: black;
 }
 
 /* 404 page  */
