@@ -54,5 +54,11 @@ TGM Basketball Clinic is a place for children ages 12 and up to join and work on
 
 /* Insert img for gallery page here */
 
+* Sign Up
+
+        This Sign Up section is a form that allows the user to sign up their kids and afterwards get a thank you message to let them know they have signed up successfully.
+
+/* Insert img for sign up page here */
+
 
 
