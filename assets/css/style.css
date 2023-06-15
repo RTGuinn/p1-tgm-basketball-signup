@@ -106,7 +106,7 @@ h1, h2 {
     margin-bottom: 10px;
 }
 
-#about-us h2 {
+#about-us h2 {     /* about us header color */
     color: white;
     margin-left: 20px;
 }
