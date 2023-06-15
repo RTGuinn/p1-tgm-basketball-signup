@@ -57,7 +57,17 @@ TGM Basketball Clinic is a place for children ages 12 and up to join and work on
 
         This Sign Up section is a form that allows the user to sign up their kids and afterwards get a thank you message to let them know they have signed up successfully.
 
-/* Insert img for sign up page here */
+![form with name and email areas to fill in](docs/readme_images/signup.png)
 
+* Thank you page
 
+        This page lets the user know they have successfully signed up for the basketball clinic and also has a link back to the home page.
+
+/* Insert img for thank you page here */
+
+* 404 error page
+
+        This page lets the user know the input they have typed in is not correct and has a link to take them back to the previous page.
+
+/* Insert 404 error img here */
 
