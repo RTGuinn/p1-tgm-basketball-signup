@@ -31,20 +31,20 @@ TGM Basketball Clinic is a place for children ages 12 and up to join and work on
         While in the clinic the children will be evaluated throughout the session and given individual instruction on how and what they need to do and work on so as to be the best they can be.
         At the end of each session the kids will join together to have a fun challenge of a basketball game called shoot-out or stress to end each session with some fun.
 
-/* Insert img for About TGM section */
+![text that explains what clinic is about](docs/readme_images/aboutus.png)
 
 * Gym Times and Locations
 
         The times and locations section allows the user to see when the clinics are happeing, where they will be located and for how long they will last.
         
-/* Insert img for Gym Times and Locations */
+![times and locations for each clinic](docs/readme_images/times.png)
 
 * Footer section
 
         The footer section has social links to the TGM Clinic media sites.  The links will open in new tabs so as to allow easy navigation for the user.
         The social links encourage the users to keep in contact and connected through the media sites
 
-/* Insert img for Footer section */
+![two images for facebook and instagram links](docs/readme_images/footer.png)
 
 * Gallery
 
