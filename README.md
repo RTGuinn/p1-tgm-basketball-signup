@@ -51,7 +51,7 @@ TGM Basketball Clinic is a place for children ages 12 and up to join and work on
         The Gallery shows images of previous TGM Clinics for the user to look at and see what the clinics involve and are about.
         This section lets the user see some of the activities their kids will take part in.
 
-/* Insert img for gallery page here */
+![images of kids in previous clinics](docs/readme_images/gallery.png)
 
 * Sign Up
 
@@ -63,7 +63,7 @@ TGM Basketball Clinic is a place for children ages 12 and up to join and work on
 
         This page lets the user know they have successfully signed up for the basketball clinic and also has a link back to the home page.
 
-/* Insert img for thank you page here */
+![thank you message after signing up with clickable link to go back](docs/readme_images/thankyou.png)
 
 * 404 error page
 
