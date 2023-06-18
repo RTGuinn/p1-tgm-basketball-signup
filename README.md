@@ -82,15 +82,12 @@ TGM Basketball Clinic is a place for children ages 12 and up to join and work on
 # Design
 ## Wireframe
 
-/* add wireframe images here 
-/
-/
-/
-/
-/
-/
-/
-*/
+## Home Page
+
+![wireframe image of how home page should look](docs/wireframe_images/home.png)
+![wireframe image of how home page should look on phone](docs/wireframe_images/phonehome.png)
+
+
 
 
 
