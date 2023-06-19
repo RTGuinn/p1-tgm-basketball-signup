@@ -164,3 +164,24 @@ Website was also opened on iphone 13 plus with no problems.
 
 ## Accessibility
 
+Wave Accessibility tool was used at the end of developing the website for final testing of the deployed website to check for any aid accessibility testing.
+
+Testing was to ensure the following criteria were met:
+- All pages have aria-labels and associated labels so it is read out on a screen reader.
+- Color contrasts meet a minimum ratio
+- Heading levels are not missing or skipped to ensure the importance of content is correctly outputted to the user.
+- Everything is contained within landmarks to ensure ease of use for assistive technology.
+- All images has alternative text and titles so it is read out on screen readers.
+
+On Wave Accessibility there was an problem that came up.
+- Problem: Nearby images using some of the same alternativve text.
+
+- Solution: I could not figure another way to fix this problem as images are closely related to each other and an alternative explanation for each image would not work.
+
+
+## Lighthouse Testing
+
+![image of test result for home page from lighthouse](docs/readme_images/lighthouse_testhome.png)
+![image of test result for gallery page from lighthouse](docs/readme_images/lighthouse_testgallery.png)
+![image of test result for sign up page from lighthouse](docs/readme_images/lighthouse_testsignup.png)
+
