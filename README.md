@@ -1,7 +1,7 @@
 # TGM Basketball Clinic
 
 TGM Basketball Clinic is a place for children ages 12 and up to join and work on their basketball skills and physical fitness that will be useful when playing basketball.  This site will target parents or guardians who have children that play basketball and want every opportunity to improve upon their skills.  This site will give the opportunity for parents or guardians to sign up their children for a time and location to be at to join in on the skills clinic.
-View the live site here https://rtguinn.github.io/p1-tgm-basketball-signup/
+View the live site [here](https://rtguinn.github.io/p1-tgm-basketball-signup/)
 
 ![site on different screen sizes computer laptop tablet and iphone](docs/readme_images/responsive.png)
 
@@ -212,3 +212,15 @@ This website was deployed using GitHub pages
     3. After saving from step 2, the page will be deployed and a live link will display after a few moments.
 
 A live link can be found here - https://rtguinn.github.io/p1-tgm-basketball-signup/
+
+# Credits
+
+## Content
+- This website began following the Love Running project from CodeInstitute as a tutorial until the site came into its own.
+- CodeInstitute Project 1 sample project was also used a reference
+- Mentor Project 1 Taco-travels from Gareth McGirr was used as a reference
+- Icons from Font Awesome were used for media links in footer
+- Icon from Favicon Generator were used for tab icon
+
+## Media
+- All photos on the home page and gallery were used from my personal collection.
