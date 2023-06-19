@@ -147,3 +147,20 @@ View the live site here https://rtguinn.github.io/p1-tgm-basketball-signup/
 
 All pages were tested to make sure responsiveness on different screen sizes functioned and worked properly on Chrome, Safari and Windows.
 
+- Steps to test:
+
+    1. Open browser and navigate to https://rtguinn.github.io/p1-tgm-basketball-signup/
+    2. Open developer tools (right click and inspect)
+    3. Set to responsive and decrease to 600px
+    4. Click and drag responsive window to max width
+
+- Expected:
+Website responds on all screen sized and no images are pixelated or stretched and no elements overlap.
+
+- Actual:
+Website acted as it should and no problems were found.
+
+Website was also opened on iphone 13 plus with no problems.
+
+## Accessibility
+
