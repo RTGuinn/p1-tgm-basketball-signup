@@ -196,3 +196,19 @@ On Wave Accessibility there was an problem that came up.
     - No errors were found when testing website through W3C CSS Validator
 
 ![image of test result for website through CSS validator](docs/readme_images/cssvalidation.png)
+
+
+## Unfixed Bugs
+
+The website worked on all devices as it should and I found no errors or bugs to fix at this time.
+
+## Deployment
+
+This website was deployed using GitHub pages
+
+- Steps to deploy
+    1. In GitHub repository, go to Setting tab
+    2. From the Branch drop-down menu section, select main
+    3. After saving from step 2, the page will be deployed and a live link will display after a few moments.
+
+A live link can be found here - https://rtguinn.github.io/p1-tgm-basketball-signup/
