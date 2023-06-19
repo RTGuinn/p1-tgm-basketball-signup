@@ -185,3 +185,14 @@ On Wave Accessibility there was an problem that came up.
 ![image of test result for gallery page from lighthouse](docs/readme_images/lighthouse_testgallery.png)
 ![image of test result for sign up page from lighthouse](docs/readme_images/lighthouse_testsignup.png)
 
+## Validator Testing
+
+- HTML
+    - No errors were found when testing website through W3C HTML Validator
+
+![image of test result for website through HTML validator](docs/readme_images/htmlvalidation.png)
+
+- CSS 
+    - No errors were found when testing website through W3C CSS Validator
+
+![image of test result for website through CSS validator](docs/readme_images/cssvalidation.png)
