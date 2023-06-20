@@ -185,6 +185,116 @@ On Wave Accessibility there was an problem that came up.
 ![image of test result for gallery page from lighthouse](docs/readme_images/lighthouse_testgallery.png)
 ![image of test result for sign up page from lighthouse](docs/readme_images/lighthouse_testsignup.png)
 
+## Functional Testing
+
+Navigation Links
+- Testing was performed to make sure all navigation links go to the page they are supposed to when clicked on.
+This test was done by clicking on each link on each page.
+
+| Navigation Link | Page to Load |
+|-----------------|--------------|
+| Home | index.html |
+| Gallery | gallery.html |
+| Sign up | signup.html  |
+
+All links on all pages navigated to the correct page as expected.
+
+## Form Testing
+
+The form on the sign up page was tested to make sure its functionality worked as expected when names and emails were input correctly and incorrectly.   The following test scenarios were covered:
+
+- Scenario One - Correct Inputs
+Steps to test:
+    1. Go to Sign up page from home page
+    2. Input following data into form:
+        - First Name: John
+        - Last Name: Smith
+        - Email: John_Smith@test.com
+    3. Click Sign Up button
+    4. User is redirected to thankyou.html for confirmation that they signed up.
+
+Expected:
+
+Form submits with no errors and user is redirected to thankyou.html confirmation page with clickable link to go back to home page.
+
+Actual:
+
+Website behaved as expected with no errors and redirected to thankyou.html.
+
+- Scenario Two - Missing Required First Name field
+Steps to test:
+    1. Go to Sign up page from home page
+    2. Input following data into form:
+        - First Name: 
+        - Last Name: Smith
+        - Email: John_Smith@test.com
+    3. Click Sign Up button
+
+Expected:
+
+Form does not submit and shows required First Name to be filled in.
+
+Actual:
+
+Website behaved as expected and showed required First Name to be filled in.
+
+- Scenario Three - Missing Required Last Name field
+Steps to test:
+    1. Go to Sign up page from home page
+    2. Input following data into form:
+        - First Name: John
+        - Last Name:
+        - Email: John_Smith@test.com
+    3. Click Sign Up button
+
+Expected:
+
+Form does not submit and shows required Last Name to be filled in.
+
+Actual:
+
+Website behaved as expected and showed required Email to be filled in.
+
+- Scenario Four - Missing Required Email field
+Steps to test:
+    1. Go to Sign up page from home page
+    2. Input following data into form:
+        - First Name: John
+        - Last Name: Smith
+        - Email: 
+    3. Click Sign Up button
+
+Expected:
+
+Form does not submit and shows required Email to be filled in.
+
+Actual:
+
+Website behaved as expected and showed required Email to be filled in.
+
+- Scenario Five - Incorrect Email format
+Steps to test:
+    1. Go to Sign up page from home page
+    2. Input following data into form:
+        - First Name: John
+        - Last Name: Smith
+        - Email: John_Smithtest.com
+    3. Click Sign Up button
+
+Expected:
+
+Form does not submit and shows the email format is incorrect and requires correct format.
+
+Actual:
+
+Website behaved as expected and showed the email format is incorrect and requires correct format.
+
+### Social Media Links
+
+Testing for social media links in the footer area to make sure they open in a new tab.
+- These were tested by clicking each one and behaved as expected opening in a new tab.
+
+
 ## Validator Testing
 
 - HTML
@@ -197,8 +307,9 @@ On Wave Accessibility there was an problem that came up.
 - CSS 
     - No errors were found when testing website through W3C CSS Validator
 
-![image of test result for website through CSS validator](docs/readme_images/cssvalidation.png)
-
+![image of test result for home page through CSS validator](docs/readme_images/cssvalidation.png)
+![image of test result for gallery page through CSS validator](docs/readme_images/gallery_cssvalidation.png)
+![image of test result for sign up page through HTML validator](docs/readme_images/signup_cssvalidation.png)
 
 ## Unfixed Bugs
 
