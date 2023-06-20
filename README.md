@@ -211,12 +211,12 @@ This website was deployed using GitHub pages
     2. From the Branch drop-down menu section, select main
     3. After saving from step 2, the page will be deployed and a live link will display after a few moments.
 
-A live link can be found here - https://rtguinn.github.io/p1-tgm-basketball-signup/
+A live link can be found here - https://rtguinn.github.io/p1-tgm-basketball-signp/
 
 # Credits
 
 ## Content
-- This website began following the Love Running project from CodeInstitute as a tutorial until the site came into its own.
+- This website began following the Love Running project from CodeInstitute as a tutorial until the site came into its own..
 - CodeInstitute Project 1 sample project was also used a reference
 - Mentor Project 1 Taco-travels from Gareth McGirr was used as a reference
 - Icons from Font Awesome were used for media links in footer
