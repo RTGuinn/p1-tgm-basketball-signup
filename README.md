@@ -190,7 +190,9 @@ On Wave Accessibility there was an problem that came up.
 - HTML
     - No errors were found when testing website through W3C HTML Validator
 
-![image of test result for website through HTML validator](docs/readme_images/htmlvalidation.png)
+![image of test result for home page through HTML validator](docs/readme_images/htmlvalidation.png)
+![image of test result for gallery page through HTML validator](docs/readme_images/gallery_htmlvalidation.png)
+![image of test result for sign up page through HTML validator](docs/readme_images/signup_htmlvalidation.png)
 
 - CSS 
     - No errors were found when testing website through W3C CSS Validator
